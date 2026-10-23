@@ -7,11 +7,6 @@
 
   <!-- Apresentação Curta -->
   <h3>🚀 Software Developer</h3>
-
-  <p>Building scalable SaaS solutions, automated API pipelines with n8n, and backend systems with Python & FastAPI.</p>
-
-  <br />
-
   <!-- Badges de Tecnologias -->
   <h2>🛠️ Technology Stack</h2>
 
