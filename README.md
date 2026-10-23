@@ -5,9 +5,9 @@
 
   <br />
 
-  <!-- Apresentação Curta -->
+  <!-- Subtítulo e Stack -->
   <h3>🚀 Software Developer</h3>
-  <!-- Badges de Tecnologias -->
+  
   <h2>🛠️ Technology Stack</h2>
 
   <p>
@@ -17,9 +17,10 @@
   </p>
 
   <br />
-  <!-- Streak de Commits -->
+
+  <!-- Card com Tema Synthwave/Vaporwave -->
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayan-dev&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayan-dev&theme=synthwave" />
   </p>
 
   <br />
