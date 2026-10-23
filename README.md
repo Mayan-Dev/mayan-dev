@@ -17,12 +17,7 @@
   </p>
 
   <br />
-
-<!-- Banner Pixel Art Synthwave -->
-<p>
-  <img src="https://i.ext.net/2021/04/cyberpunk-city.gif" width="450px" />
-</p>
-
+  
   <br />
 
   <!-- Links de Contato -->
