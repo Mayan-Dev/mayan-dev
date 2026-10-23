@@ -18,10 +18,10 @@
 
   <br />
 
-  <!-- Card com Tema Synthwave/Vaporwave -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayan-dev&theme=synthwave" />
-  </p>
+<!-- Banner Pixel Art Synthwave -->
+<p>
+  <img src="https://i.ext.net/2021/04/cyberpunk-city.gif" width="450px" />
+</p>
 
   <br />
 
