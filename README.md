@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- Banner Superior -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Mayan%20👋&fontSize=50&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I'm%20Mayan%20Dev%20👋&fontSize=50&animation=fadeIn" width="100%" />
   <br />
 
   <!-- Subtítulo e Stack -->
